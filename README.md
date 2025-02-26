@@ -73,8 +73,8 @@ If you choose to use Icarus Verilog to generate your training data:
 
 ## Evaluation
 
-*   **Accuracy:** The model achieves a Mean Absolute Error (MAE) of on the test dataset.
-*   **Runtime:** Prediction for a single signal takes approximately  seconds on average (measured on a \[Your CPU/System Specs]).
+*   **Accuracy:** The model achieves a Mean Absolute Error (MAE) of ___ on the test dataset.
+*   **Runtime:** Prediction for a single signal takes approximately  seconds on average ___.
 
 *   **Correctness and testing** Here are some of the tests we ran to ensure our model works correctly
     *   **Unit test**: Ran each function separately.
